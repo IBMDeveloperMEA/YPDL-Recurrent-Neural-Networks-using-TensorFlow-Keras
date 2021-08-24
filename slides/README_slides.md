@@ -51,6 +51,20 @@ As a follow-up to our Your Path to AI series which was conducted in 2020, we are
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
+👩‍💻Resources <br />
+- GitHub Repository - https://github.com/IBMDeveloperMEA/YPDL-Recurrent-Neural-Networks-using-TensorFlow-Keras
+- Workshop Slides - https://ibmdevelopermea.github.io/YPDL-Recurrent-Neural-Networks-using-TensorFlow-Keras/#/
+- Survey - https://ibm.biz/YPDL-Survey
+- Follow along for the hands-on - https://ibm.biz/rnn-tensorflow-NNLab
+- Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
+
+🎈 Prerequisites <br />
+☁ Sign in/Login into IBM Cloud using: https://ibm.biz/YourPathToDeepLearning
+
+🍉 Register for the live stream and replay on Crowdcast: https://www.crowdcast.io/e/ypdl-3 <br/>
+
++++ {"slideshow": {"slide_type": "subslide"}}
+
 👩‍💻 Who should attend? <br/>
 - Developers interested in building deep learning models using Python <br/>
 - Deep learning & machine learning enthusiasts <br/>
@@ -63,18 +77,6 @@ What will you learn? ✍🏼 <br/>
 - Deep learning architectures <br/>
 - Compare deep learning frameworks <br/>
 - Implementing deep learning algorithms <br/>
-
-🎈 Prerequisites <br />
-☁ Sign in/Login into IBM Cloud using: https://ibm.biz/YourPathToDeepLearning
-
-🍉 Register for the live stream and replay on Crowdcast: https://www.crowdcast.io/e/ypdl-3 <br/>
-
-👩‍💻Resources <br />
-- GitHub Repository - https://github.com/IBMDeveloperMEA/YPDL-Recurrent-Neural-Networks-using-TensorFlow-Keras
-- Workshop Slides - https://ibmdevelopermea.github.io/YPDL-Recurrent-Neural-Networks-using-TensorFlow-Keras/#/
-- Survey - https://ibm.biz/YPDL-Survey
-- Follow along for the hands-on - https://ibm.biz/rnn-tensorflow-NNLab
-- Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
