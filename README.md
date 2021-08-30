@@ -203,10 +203,12 @@ Refer the notebook used in the [Demand forecasting using deep learning](https://
 In this tutorial, you learned about Language Modeling. You learned how to run a Jupyter Notebook using Watson Studio on IBM Cloud Pak for Data as a Service and how to create a Recurrent Neural Network model using TensorFlow based on the Long Short-Term Memory unit. Finally, you used this model to train and benchmark on the Penn Treebank dataset.
 
 ## Workshop Resources
-Login/Sign Up for IBM Cloud: https://ibm.biz/rnn-tensorflow
+Login/Sign Up for IBM Cloud: https://ibm.biz/YourPathToDeepLearning
 
 Hands-On Guide: https://ibm.biz/rnn-tensorflow-NNLab
 
-Slides: https://ibm.biz/rnn-tensorflow-slides
+Slides: https://ibmdevelopermea.github.io/YPDL-Recurrent-Neural-Networks-using-TensorFlow-Keras/#/
 
-Workshop Replay:  https://www.crowdcast.io/e/build-a-recurrent-neural
+Workshop Replay:  https://www.crowdcast.io/e/ypdl-3
+
+Survey - https://ibm.biz/YPDL-Survey
