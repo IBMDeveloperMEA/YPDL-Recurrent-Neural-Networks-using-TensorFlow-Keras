@@ -212,3 +212,23 @@ Slides: https://ibmdevelopermea.github.io/YPDL-Recurrent-Neural-Networks-using-T
 Workshop Replay:  https://www.crowdcast.io/e/ypdl-3
 
 Survey - https://ibm.biz/YPDL-Survey
+
+## Check out the event on other streaming platforms
+
+- YouTube - https://youtu.be/73gAq85IFCs
+
+- LinkedIn - https://www.linkedin.com/events/yourpathtodeeplearning6828696278394802176/
+
+- Twitch - https://www.twitch.tv/videos/1134006710
+
+- Twitter - https://twitter.com/mridulrb/status/1432342589986861056?s=20
+
+- Facebook - https://www.facebook.com/100003349938697/videos/893645731236407/
+
+- Periscope - https://www.periscope.tv/mridulrb/1RDGlPyzvpDGL
+
+## Link to the next and session in Your Path to Deep Learning
+
+- 1st September - 6PM-8PM (GST)
+    -  Personalized Recommendation Engines with TensorFlow
+    - https://www.crowdcast.io/e/ypdl-4
